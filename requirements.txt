@@ -4,5 +4,3 @@ spacy
 torch
 transformers
 scikit-learn
-
-python -m spacy download en_core_web_md
